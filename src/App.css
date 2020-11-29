@@ -14,7 +14,7 @@
     font-weight: 900;
     font-size: 26px;
     text-shadow: 0.5px 0.5px 2px grey;
-    cursor: context-menu
+    cursor: co;
 }
 
 .brand_name:hover {
@@ -246,7 +246,7 @@ div .animated {
 
 /* contact form from contact us file */
 .contact_form {
-    margin-top: -30px;
+    margin-top: -35px;
 }
 /* .................... */
 
